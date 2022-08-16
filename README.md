@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![](https://activity-graph.herokuapp.com/graph?username=yym68686&bg_color=black&color=23affc&line=23affc)](https://github.com/yym68686)
 <!--
 **yym68686/yym68686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
