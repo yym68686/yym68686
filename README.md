@@ -3,9 +3,9 @@
 
 ### yym68686's github stats 😁
 
-[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=yym68686&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/yym68686)
+<!-- [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=yym68686&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/yym68686)
 
-[![yym68686's github stats](https://github-readme-stats.vercel.app/api?username=yym68686&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/yym68686)
+[![yym68686's github stats](https://github-readme-stats.vercel.app/api?username=yym68686&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/yym68686) -->
 
 <!--
 **yym68686/yym68686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
