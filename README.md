@@ -1,10 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yym68686&hide=c&hide_border=true&layout=compact&theme=tokyonight&&show_icons=true">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yym68686&theme=tokyonight" alt="Languages" width="500">
+
 ### Hi there 👋
 
 - 🔭 Code is law. 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yym68686&theme=tokyonight" alt="Languages">
 <!-- [![](https://activity-graph.herokuapp.com/graph?username=yym68686&bg_color=black&color=23affc&line=23affc)](https://github.com/yym68686) -->
 
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yym68686&hide=c&hide_border=true&layout=compact&theme=tokyonight&&show_icons=true) -->
