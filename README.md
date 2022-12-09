@@ -1,17 +1,9 @@
 ### Hi there 👋
-[![](https://activity-graph.herokuapp.com/graph?username=yym68686&bg_color=black&color=23affc&line=23affc)](https://github.com/yym68686)
+<!-- [![](https://activity-graph.herokuapp.com/graph?username=yym68686&bg_color=black&color=23affc&line=23affc)](https://github.com/yym68686) -->
 
-### yym68686's github stats 😁
-
-<!-- [![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=yym68686&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/yym68686)
-
-[![yym68686's github stats](https://github-readme-stats.vercel.app/api?username=yym68686&hide_title=false&hide=c&hide_border=true&layout=compact&theme=tokyonight&locale=cn)](https://github.com/yym68686) -->
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yym68686)
 
 <!--
-**yym68686/yym68686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
