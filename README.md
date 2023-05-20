@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+- 📖 A minimalist.
 - 🔭 Code is law. 
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yym68686&theme=tokyonight" alt="Languages" width="500"> -->
